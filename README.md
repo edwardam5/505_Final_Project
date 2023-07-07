@@ -92,3 +92,6 @@ For this study, it was hypothesized that at least one of the seven classificatio
 K-Nearest Neighbor (KNN), Decision Tree, Random Forest, and Linear Discriminant Analysis will result in a model that predicts a customers churn 
 status of high risk of churning or low risk of churning. More specifically, a secondary hypothesis is that the best predictor will be the Linear 
 Discriminant Analysis (LDA) model, based on the accuracy and precision score being greater than eighty percent. 
+
+### Link to Video Presentation
+Link: https://youtu.be/1K-TYZu6CeQ 
